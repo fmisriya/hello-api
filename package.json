@@ -2,10 +2,10 @@
   "name": "hello-api",
   "version": "1.0.0",
   "description": "Basic Hello World API for Kalvium assignment",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "main": "index.js","scripts": {
+  "start": "node index.js"
+}
+,
   "dependencies": {
     "express": "^4.18.2"
   }
